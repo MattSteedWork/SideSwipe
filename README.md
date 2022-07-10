@@ -11,5 +11,7 @@ When prompted input the project name and the ip address and SideSwipe does the f
 4.If 445 is Found SideSwipe Runs Smbclient\
 5.If port 80 or 8080 is found SideSwipe Runs Feroxbuster  
   
+!!Be sure to change the terminal in the code if you dont have Konsole!!  
+
 Have fun.
 
